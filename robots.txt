@@ -1,0 +1,5 @@
+Sitemap: https://625b08735a95e.site123.me/sitemap.xml
+User-agent: *
+Allow: /
+Disallow: /versions/2/include/
+Disallow: /versions/2/wizard/
